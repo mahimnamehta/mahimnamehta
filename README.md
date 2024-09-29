@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **Fullstack Development**
 
-- 👨‍💻 All of my projects are available at [mahimnamehta.me](mahimnamehta.me)
+- 👨‍💻 All of my projects are available at [mahimnamehta.me](https://mahimnamehta.me)
 
 - 💬 Ask me about **React.JS, React Native, Next.JS, Blender**
 
 - 📫 How to reach me **mahimna.mehta99@gmail.com**
 
-- 📄 Know about my experiences [mahimnamehta.me](mahimnamehta.me)
+- 📄 Know about my experiences [mahimnamehta.me](https://mahimnamehta.me)
 
 - ⚡ Fun fact **I think I am into Coding!**
 
